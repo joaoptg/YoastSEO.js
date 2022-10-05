@@ -1,5 +1,5 @@
 const singleWords = [
-	"ademais", "afinal", "aliás", "analogamente", "anteriormente", "assim", "certamente", "conforme",
+	"ademais", "afinal", "aliás", "assim", "analogamente", "anteriormente", "assim", "certamente", "conforme",
 	"conquanto", "contudo", "decerto", "embora", "enfim", "enquanto", "então", "entretanto", "eventualmente",
 	"igualmente", "inegavelmente", "inesperadamente", "mas", "outrossim", "pois", "porquanto", "porque", "portanto",
 	"posteriormente", "precipuamente", "primeiramente", "primordialmente", "principalmente", "salvo",
@@ -19,7 +19,8 @@ const multipleWords = [
 	"nesse sentido", "no entanto", "no momento em que", "ou por outra", "ou seja", "para que", "pelo contrário", "por analogia",
 	"por causa de", "por certo", "por conseguinte", "por conseqüência", "por exemplo", "por fim", "por isso", "por mais que",
 	"por menos que", "por outro lado", "posto que", "se acaso", "se bem que", "seja como for", "sem dúvida", "só para exemplificar",
-	"só para ilustrar", "só que", "sob o mesmo ponto de vista", "talvez provavelmente", "tanto quanto", "uma vez que", "visto que",
+	"só para ilustrar", "só que", "sob o mesmo ponto de vista", "talvez provavelmente", "tanto quanto", "uma vez que", "visto que", "uma vez que",
+	"desta foma", "desta feita", "a título de exemplo"
 ];
 
 /**
